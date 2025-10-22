@@ -1,21 +1,25 @@
 <div align="center">
-  
-# 👋 Hi, I'm Muhammad Ismail
-
-### Flutter Developer | UI/UX Enthusiast | Problem Solver
-
-🚀 Crafting clean, scalable, and user-friendly mobile experiences with Flutter & Firebase
 
 <!-- Animated Header with Code Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,21,2&height=180&section=header&text=Muhammad%20Ismail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20|%20UI/UX%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,2,18&height=180&section=header&text=Muhammad%20Ismail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20|%20UI/UX%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Building+Beautiful+Mobile+Apps+%F0%9F%9A%80;Clean+Code+%2B+Great+UX+%E2%9C%A8;Turning+Coffee+into+Flutter+Magic+%E2%98%95" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail554)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdismailhusssain@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
+<p align="center">
+  <a href="https://linkedin.com/in/ismail554" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" style="border-radius: 10px;" />
+  </a>
+  <a href="mailto:mdismailhusssain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email" style="border-radius: 10px;" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&style=flat-square" alt="Portfolio" style="border-radius: 10px;" />
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter" style="border-radius: 10px;" />
+  </a>
+</p>
 </div>
 
 ---
@@ -32,32 +36,37 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
 ```
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart" />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+  <a href="https://restfulapi.net" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API-009688?style=plastic&logo=fastapi&logoColor=white" alt="REST API" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismail554&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail554&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismail554&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail554&theme=radical&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,7 +79,7 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
       <h3 align="center">Neworkx</h3>
       <p align="center">
         <a href="https://github.com/ismail554/neworkx" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Neworkx"/>
+          <img src="https://img.shields.io/badge/View_Project-181717?style=plastic&logo=github" alt="Neworkx"/>
         </a>
       </p>
       <p align="center">Social networking platform built with Flutter & Firebase</p>
@@ -79,7 +88,7 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
       <h3 align="center">Geography Geyser</h3>
       <p align="center">
         <a href="https://github.com/ismail554/geography-geyser" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Geography Geyser"/>
+          <img src="https://img.shields.io/badge/View_Project-181717?style=plastic&logo=github" alt="Geography Geyser"/>
         </a>
       </p>
       <p align="center">Interactive geography learning game with gamification</p>
@@ -90,7 +99,7 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
       <h3 align="center">Cardox Fitness Tracker</h3>
       <p align="center">
         <a href="https://github.com/ismail554/cardox" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Cardox"/>
+          <img src="https://img.shields.io/badge/View_Project-181717?style=plastic&logo=github" alt="Cardox"/>
         </a>
       </p>
       <p align="center">Fitness tracking app with workout routines & progress monitoring</p>
@@ -99,7 +108,7 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
       <h3 align="center">More Projects</h3>
       <p align="center">
         <a href="https://github.com/ismail554?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_All-FF6B6B?style=for-the-badge&logo=github" alt="All Repos"/>
+          <img src="https://img.shields.io/badge/View_All-FF6B6B?style=plastic&logo=github" alt="All Repos"/>
         </a>
       </p>
       <p align="center">Check out my other projects and contributions</p>
@@ -107,23 +116,13 @@ fun_fact: "I turn coffee ☕ into pixel-perfect UIs 💻"
   </tr>
 </table>
 
-<!-- --- -->
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ismail554&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div> -->
-
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Ismail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail554&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ismail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail554&theme=react-dark&hide_border=true&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -155,6 +154,6 @@ I'm always open to collaborating on interesting projects or discussing Flutter d
 ![Profile Views](https://komarev.com/ghpvc/?username=ismail554&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,2,18&height=100&section=footer" width="100%"/>
 
 </div>
