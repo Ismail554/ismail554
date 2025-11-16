@@ -28,7 +28,7 @@
 ```yaml
 current_focus: Clean Architecture & Backend Integrations
 working_on: 
-  - Neworkx (Social Networking Platform)
+  - HireNearby (Social Networking & Job hunting Platform)
   - Geography Geyser (Educational Game)
 learning: API Design, Authentication Patterns, Advanced State Management
 interests: [Flutter, UI/UX Design, REST APIs, Mobile Architecture]
