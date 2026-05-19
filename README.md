@@ -12,18 +12,21 @@
 <a href="https://github.com/ismail554">
   <img src="https://komarev.com/ghpvc/?username=ismail554&style=flat-square&color=blue" alt="Profile Views"/>
 </a>
-
-<br/>
-<br/>
-
 <p align="center">
+  <a href="https://my-portfolio-lake-three-88.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-%23091F19.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+<!-- <p align="center">
   <a href="https://github.com/ismail554">
     <img src="https://github-readme-stats.vercel.app/api?username=ismail554&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="150" alt="stats graph" />
   </a>
   <a href="https://github.com/ismail554">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail554&layout=compact&theme=nightowl&hide_border=true" height="150" alt="languages graph" />
   </a>
-</p>
+</p> -->
 
 </div>
 
@@ -41,16 +44,60 @@ I am a passionate **Mobile App Architect & Flutter Developer** turning coffee �
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-Here are some of the real-world solutions I've built and architected:
+<div align="center">
 
-| Project Name | Description | Tech Stack / Role |
-| :--- | :--- | :--- |
-| **LIVU** | Athletic recovery application designed for the Apple ecosystem. | Flutter, iOS Focus, UI/UX |
-| **HireNearby** | Location-based service platform connecting users with local professionals. | Flutter, Maps, REST APIs |
-| **ScoreLivePro** | Real-time sports tracking and live score delivery system. | Flutter, WebSockets, Firebase |
-| **Geography Geyser** | Interactive Android educational utility application. | Android, SQLite, State Management |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ ScoreLivePro
+Real-time sports tracking and live score delivery. Handles high-frequency data over WebSockets with multi-language localization and sustained 90fps UI rendering under load.
+
+**Stack:** Flutter · WebSockets · Firebase · BLoC · i18n
+
+[![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=app-store&logoColor=58A6FF)](https://apps.apple.com/us/app/scorelivepro/id6758834768)
+[![Google Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=google-play&logoColor=58A6FF)](https://play.google.com/store/apps/details?id=com.scorelivepro.app)
+[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/Ismail554/scorelivepro)
+
+</td>
+<td width="50%" valign="top">
+
+### 📍 HireNearby
+Location-based platform connecting users with local service professionals. Built on custom map implementations with clean REST API integration and offline-capable data flow.
+
+**Stack:** Flutter · Google Maps · REST APIs · Provider · Clean Arch
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Geography Geyser
+Educational app with interactive quizzes, timed challenges, and full offline functionality via local SQLite storage. Scalable state architecture handles progressive difficulty without UI jank.
+
+**Stack:** Flutter · SQLite · State Management · Android
+
+[![App Store](https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=app-store&logoColor=58A6FF)](https://apps.apple.com/gb/app/geography-geyser/id6760274426)
+[![Google Play](https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=google-play&logoColor=58A6FF)](https://play.google.com/store/apps/details?id=com.geographygeyser.simon)
+[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/Ismail554/Quiz_APP)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 SwissCarExchange
+Car marketplace with listing, browsing, and buyer-seller connection flows. Clean Architecture from data layer to presentation, REST API integration throughout.
+
+**Stack:** Flutter · REST APIs · Clean Architecture · Provider
+
+[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/Ismail554/SwissCarExchange)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
