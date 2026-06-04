@@ -125,7 +125,7 @@ I don't just write code; I choose the right tools to build maintainable systems.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ismail554&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ismail554&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=852&card_height=245&stroke=EBB32D)](https://git.io/streak-stats)
 
 
 <br/>
